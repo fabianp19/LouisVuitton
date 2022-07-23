@@ -1,0 +1,7 @@
+F:\Nauka\Projekty\C#\LV\LV\LV\bin\Debug\LV.exe.config
+F:\Nauka\Projekty\C#\LV\LV\LV\bin\Debug\LV.exe
+F:\Nauka\Projekty\C#\LV\LV\LV\bin\Debug\LV.pdb
+F:\Nauka\Projekty\C#\LV\LV\LV\obj\Debug\LV.csproj.CoreCompileInputs.cache
+F:\Nauka\Projekty\C#\LV\LV\LV\obj\Debug\LV.exe
+F:\Nauka\Projekty\C#\LV\LV\LV\obj\Debug\LV.pdb
+F:\Nauka\Projekty\C#\LV\LV\LV\obj\Debug\LV.csprojAssemblyReference.cache
